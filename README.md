@@ -1,2 +1,2 @@
 # dum311
-GitHub練習用です。
+GitHub練習用です。.
